@@ -63,7 +63,7 @@ Using the model to generate content that is cruel to individuals is a misuse of 
 - The model was trained mainly with English captions and will not work as well in other languages.
 - The autoencoding part of the model is lossy
 - The model was trained on a subset of the large-scale dataset
-  [LAION-5B](https://laion.ai/blog/laion-5b/), which contains adult, violent and sexual content. To partially mitigate this, we have filtered the dataset using LAION's NFSW detector (see Training section).
+  [LAION-5B](https://laion.ai/blog/laion-5b/), which contains adult, violent and sexual content. To partially mitigate this, we have filtered the dataset using LAION's NSFW detector (see Training section).
 
 ### Bias
 While the capabilities of image generation models are impressive, they can also reinforce or exacerbate social biases. 
