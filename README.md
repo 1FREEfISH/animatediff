@@ -67,7 +67,7 @@ pip install -e .
 ``` 
 #### xformers efficient attention
 For more efficiency and speed on GPUs, 
-we highly recommended installing the [xformers](https://github.com/facebookresearch/xformers)
+we highly recommend installing the [xformers](https://github.com/facebookresearch/xformers)
 library.
 
 Tested on A100 with CUDA 11.4.
